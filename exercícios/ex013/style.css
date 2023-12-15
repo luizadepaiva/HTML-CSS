@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    /*height: 100%;*/
+}
+
+body{
+    background-image: linear-gradient(to right, #FFC991, #E79160);
+}
+
+main {
+background-color: white;
+width: 600px;
+border-radius: 10px;
+box-shadow: 5px 5px 15px #8a5638b6; /*1º quanto vai andar para o lado, 2º quanto vai andar pra baixo, 3º quanto vai espalhar, 4º cor e transparência*/
+padding: 10px;
+margin: auto;
+}
+
+h1{
+color: #d3943d;
+text-align: center;
+text-shadow: 1px 1px 1px #755323bb;
+}
+
+h2{
+color: #666852;
+}
+p {
+text-align: justify;
+}
